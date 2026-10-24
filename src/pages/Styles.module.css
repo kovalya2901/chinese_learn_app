@@ -1,0 +1,92 @@
+#grid4x4 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.grid4x4elem {
+    text-align: center;
+}
+
+.grid4x4img {
+    width: 300px;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+
+.hieroglyph {
+    width: 50px;
+}
+
+.parenthesis {
+    list-style-type: none;
+    counter-reset:  item;
+}
+
+.parenthesis li::before {
+    content: counter(item) ') ';
+    counter-increment: item;
+}
+
+.next_back {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_lesson_style {
+    display: flex;
+    flex-direction: column; 
+    list-style: none;
+    gap: 20px;
+}
+
+.style_link {
+    text-decoration: none;
+    color: blue;
+}
+
+.style_link:hover {
+    color: rgb(0, 0, 130);
+}
+
+.arrow {
+    font-size: 50px;
+    text-decoration: none;
+    color: gray;
+}
+
+.arrow:hover {
+    color: black;
+}
+
+.btn_check {
+    border: 1px solid rgb(60, 60, 250);
+    border-radius: 5px;
+    font-family: montserrat;
+    width: 100px;
+    height: 40px;
+    background: none;
+}
+
+.btn_check:hover {
+    color: white;
+    background-color: rgb(60, 60, 250);
+}
+
+.blog {
+    padding: 20px 50px;
+    border-radius: 10px;
+    background-color: rgb(210, 240, 250);
+}
