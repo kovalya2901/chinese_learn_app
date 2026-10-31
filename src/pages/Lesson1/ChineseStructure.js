@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 
 const ChineseStructure = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>音节 Структура китайского языка</h3>
             <p>
                 Слог — это ритмическая единица, занимающая промежуточное положение между 

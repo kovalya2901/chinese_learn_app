@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const WritingHCL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>书写笔画注意事项 Основные принципы написания иероглифических черт</h3>
             <h4>1. Иероглиф должен вписываться в квадрат</h4>
             <p>

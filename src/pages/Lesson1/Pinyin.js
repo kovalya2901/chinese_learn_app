@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 
 const Pinyin = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>汉语拼音字母 Китайский фонетический алфавит пиньинь</h3>
             <p>
                  В настоящее время в китайском языке для записи произношения используется 

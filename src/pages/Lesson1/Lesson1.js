@@ -1,4 +1,4 @@
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import styles from '../Styles.module.css';
 import NavigationLesson1 from "./NavigationLesson1";
 import SpeechApparatus from './SpeechApparatus';
@@ -16,14 +16,9 @@ import ExercisesL1 from './ExercisesL1';
 function Lesson1() {
     return (
         <div>
-            <Link className={styles.style_link} to='/'>Назад</Link>
-            <div>
-                <h1>第一课</h1>
-                <h1>Урок 1</h1>
-                <NavigationLesson1 />
-            </div>
-            <div>
+            <div className={styles.blog}>
                 <Routes>
+                    <Route index element={<NavigationLesson1 />} />
                     <Route path='speech_apparatus' element={<SpeechApparatus />} />
                     <Route path='chinese_language' element={<ChineseLanguage />} />
                     <Route path='pinyin' element={<Pinyin />} />

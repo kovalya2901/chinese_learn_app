@@ -9,7 +9,7 @@ import ge_halberd from '../../images/ge_halberd.jpg';
 
 const OrderWritingHCL2 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>笔顺知识 Порядок написания черт</h3>
             <p>
                 При написании сложных иероглифов приходится руководствоваться сразу 

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const FinalsL2 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>韵母 Финали: i, u, ü</h3>
             <h4>i</h4>
             <p>

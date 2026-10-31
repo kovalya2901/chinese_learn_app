@@ -4,10 +4,12 @@ import Navigation from './components/Navigation';
 import Home from './pages/Home';
 import Lesson1 from './pages/Lesson1/Lesson1';
 import Lesson2 from './pages/Lesson2/Lesson2';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <div id={styles.wrapper}>
+      <ScrollToTop />
       <Navigation />
       <main>
         <Routes>

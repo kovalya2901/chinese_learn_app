@@ -90,3 +90,11 @@ td, th {
     border-radius: 10px;
     background-color: rgb(210, 240, 250);
 }
+
+.hieroglyph_fs40 {
+    font-size: 40px;
+}
+
+.style_for_select {
+    margin: 0 10px;
+}

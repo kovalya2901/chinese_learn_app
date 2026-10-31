@@ -7,7 +7,7 @@ import image5Lesson1 from '../../images/image5_lesson1.jpg';
 
 const Tones = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>声调 Тоны</h3>
             <p>
                 <b>Тон</b> — это мелодический контур слога, выполняющий смыслоразличительную

@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 import { AudioPlayer } from "react-audio-play";
 import lesson01_118 from '../../audio/lesson01_118.mp3';
 
-const input_style = { width: '30px' };
+const input_style = { width: '30px', margin: '0 5px' };
 
 let question = [
     { point: '01', right_answer: 'a1', answer: '' },

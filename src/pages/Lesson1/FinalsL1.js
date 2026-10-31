@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 
 const FinalsL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>韵母 Финали: a, o, e</h3>
             <h4>a</h4>
             <p>

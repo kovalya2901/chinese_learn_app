@@ -12,7 +12,8 @@ import Exercise19L1 from "./Exercise19L1";
 
 const ExercisesL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
+            <h2>三，练习 Упражнения</h2>
             <Exercise11L1 />
             <Exercise12L1 />
             <Exercise13L1 />

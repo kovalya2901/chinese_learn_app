@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 const HieroglyphicCharactersL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>汉字的笔画 Иероглифические черты</h3>
             <p>
                 На письме одному слогу, как правило, соответствует один иероглиф.

@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 
 const ChineseLanguage = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>汉语 Китайский язык</h3>
             <p>
                 Под "китайским языком" обычно понимают современный китайский литературный язык <b>путунхуа</b>, 

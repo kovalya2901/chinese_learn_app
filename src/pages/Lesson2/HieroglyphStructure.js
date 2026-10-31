@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const HieroglyphStructure = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>汉字结构 Структура иероглифа</h3>
             <h4>1. Графемы, простые и сложные иероглифы</h4>
             <p>

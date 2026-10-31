@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const WritingSyllablesInPinyin = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>音节的拼写规则 Правила записи слогов в пиньинь и некоторые особенности 
             их произнесения</h3>
             <p>

@@ -3,7 +3,7 @@ import styles from '../Styles.module.css';
 
 const InitialsL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>声母 Инициали: b, p, d, t, g, k, h</h3>
             <p>
                 В современном китайском языке согласные делятся на <b>полузвонкие</b> и <b>глухие

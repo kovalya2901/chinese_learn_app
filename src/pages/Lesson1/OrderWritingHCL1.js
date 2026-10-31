@@ -10,7 +10,7 @@ import renHuman from '../../images/ren_human.jpg';
 
 const OrderWritingHCL1 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>笔顺知识 Порядок написания черт</h3>
             <p>
                 Черты в иероглифе пишутся в строго заданной последовательности. Ниже

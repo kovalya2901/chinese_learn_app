@@ -11,7 +11,7 @@ import flip_left_dot from '../../images/flip_left_dot.jpg';
 
 const HieroglyphicCharactersL2 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>汉字的笔画 Иероглифические черты</h3>
             <h4>Сложные иероглифические черты (лигатуры)</h4>
             <p>

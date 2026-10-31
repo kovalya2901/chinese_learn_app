@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const InitialsL2 = () => {
     return (
-        <div className={styles.blog}>
+        <div>
             <h3>声母 Инициали: m, f, n, l</h3>
             <h4>m</h4>
             <p>

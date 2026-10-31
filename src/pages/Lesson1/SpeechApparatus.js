@@ -4,7 +4,7 @@ import styles from '../Styles.module.css';
 
 const SpeechApparatus = () => {
     return (
-        <div className={styles.blog} style={{textAlign: 'center'}}>
+        <div style={{textAlign: 'center'}}>
             <h3>发音器官图 Схема строения речевого аппарата</h3>
             <img alt="" src={imageLesson1} />
             <ol style={{ display: 'flex', gap: '40px', flexWrap: 'wrap', justifyContent: 'center' }}>

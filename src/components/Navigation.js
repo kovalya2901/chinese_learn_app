@@ -3,7 +3,7 @@ import styles from './Navigation.module.css';
 
 function Navigation() {
     return(
-        <nav style={{ width: '260px' }}>
+        <nav>
             <ul id={styles.settings_ul}>
                 <li>
                     <Link className={styles.style_link} to='/lesson1'>第一课 Урок 1</Link>
