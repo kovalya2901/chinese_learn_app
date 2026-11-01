@@ -12,7 +12,7 @@ function Navigation() {
                     <Link className={styles.style_link} to='/lesson2'>第二课 Урок 2</Link>
                 </li>
                 <li>
-                    <Link className={styles.style_link} to='/lesson2'>第三课 Урок 3</Link>
+                    <Link className={styles.style_link} to='/lesson3'>第三课 Урок 3</Link>
                 </li>
                 <li>
                     <Link className={styles.style_link} to='/lesson2'>第四课 Урок 4</Link>

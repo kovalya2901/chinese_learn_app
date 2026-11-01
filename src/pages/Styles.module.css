@@ -49,6 +49,7 @@ td, th {
     display: flex;
     flex-direction: column; 
     list-style: none;
+    padding-left: 0;
     gap: 20px;
 }
 

@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { use, useState } from "react";
 import styles from '../Styles.module.css';
 
 function NavigationLesson1() {
@@ -42,7 +41,7 @@ function NavigationLesson1() {
                             </Link>
                         </li>
                         <li>
-                            <Link className={styles.style_link} to='/lesson1/tones'>
+                            <Link className={styles.style_link} to='/lesson1/tones_l1'>
                                 声调 Тоны
                             </Link>
                         </li>

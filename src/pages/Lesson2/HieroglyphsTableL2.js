@@ -79,7 +79,7 @@ const HieroglyphsTableL2 = () => {
                 </tbody>
             </table>
             <div className={styles.next_back}>
-                <Link className={styles.arrow} to='/lesson2/hieroglyph_structure'>⟵</Link>
+                <Link className={styles.arrow} to='/lesson2/hieroglyph_structure_l2'>⟵</Link>
                 <Link className={styles.arrow} to='/lesson2/exercises_l2'>⟶</Link>
             </div>
         </div>

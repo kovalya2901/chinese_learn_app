@@ -124,7 +124,7 @@ const HieroglyphicCharactersL2 = () => {
                 </tbody>
             </table>
             <div className={styles.next_back}>
-                <Link className={styles.arrow} to='/lesson2/writing_syllables_in_pinyin'>⟵</Link>
+                <Link className={styles.arrow} to='/lesson2/writing_syllables_in_pinyin_l2'>⟵</Link>
                 <Link className={styles.arrow} to='/lesson2/writing_hcl2'>⟶</Link>
             </div>
         </div>

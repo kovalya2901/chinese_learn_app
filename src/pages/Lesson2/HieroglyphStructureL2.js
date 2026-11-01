@@ -1,7 +1,7 @@
 import styles from '../Styles.module.css';
 import { Link } from 'react-router-dom';
 
-const HieroglyphStructure = () => {
+const HieroglyphStructureL2 = () => {
     return (
         <div>
             <h3>汉字结构 Структура иероглифа</h3>
@@ -63,4 +63,4 @@ const HieroglyphStructure = () => {
     );
 }
 
-export default HieroglyphStructure;
+export default HieroglyphStructureL2;

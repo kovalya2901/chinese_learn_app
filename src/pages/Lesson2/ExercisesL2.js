@@ -14,7 +14,7 @@ import Exercise10L2 from './Exercise10L2';
 const ExercisesL2 = () => {
     return (
         <div>
-            <h2>三，练习 Упражнения</h2>
+            <h2>练习 Упражнения</h2>
             <Exercise1L2 />
             <Exercise2L2 />
             <Exercise3L2 />

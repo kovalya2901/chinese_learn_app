@@ -1,7 +1,7 @@
 import styles from '../Styles.module.css';
 import { Link } from 'react-router-dom';
 
-const WritingSyllablesInPinyin = () => {
+const WritingSyllablesInPinyinL2 = () => {
     return (
         <div>
             <h3>音节的拼写规则 Правила записи слогов в пиньинь и некоторые особенности 
@@ -49,4 +49,4 @@ const WritingSyllablesInPinyin = () => {
     );
 }
 
-export default WritingSyllablesInPinyin;
+export default WritingSyllablesInPinyinL2;

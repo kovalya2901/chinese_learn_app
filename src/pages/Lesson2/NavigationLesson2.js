@@ -21,7 +21,7 @@ const NavigationLesson2 = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link className={styles.style_link} to='/lesson2/writing_syllables_in_pinyin'>
+                            <Link className={styles.style_link} to='/lesson2/writing_syllables_in_pinyin_l2'>
                                 音节的拼写规则 Правила записи слогов в пиньинь и некоторые особенности
                                 их произнесения
                             </Link>
@@ -47,7 +47,7 @@ const NavigationLesson2 = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link className={styles.style_link} to='/lesson2/hieroglyph_structure'>
+                            <Link className={styles.style_link} to='/lesson2/hieroglyph_structure_l2'>
                                 汉字结构 Структура иероглифа
                             </Link>
                         </li>

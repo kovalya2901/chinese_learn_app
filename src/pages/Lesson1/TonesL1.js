@@ -5,7 +5,7 @@ import image3Lesson1 from '../../images/image3_lesson1.jpg';
 import image4Lesson1 from '../../images/image4_lesson1.jpg';
 import image5Lesson1 from '../../images/image5_lesson1.jpg';
 
-const Tones = () => {
+const TonesL1 = () => {
     return (
         <div>
             <h3>声调 Тоны</h3>
@@ -83,4 +83,4 @@ const Tones = () => {
     );
 }
 
-export default Tones;
+export default TonesL1;
